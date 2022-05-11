@@ -8,7 +8,7 @@ function calcTip(bill){
 calcTip(275)
 
 
-let bills = [125, 555, 44]
+let bills = [22, 295, 176, 440, 37, 105, 10, 1100, 86, 52]
 let tips = []
 let totals = []
 
